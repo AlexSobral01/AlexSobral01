@@ -18,3 +18,5 @@
 </div></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSobral01&layout=compact&theme=transparent)](https://github.com/AlexSobral01/github-readme-stats)
+
+<img src="https://raw.githubusercontent.com/AlexSobral01/AlexSobral01/output/snake.svg" alt="Snake animation" />
