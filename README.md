@@ -4,8 +4,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-sobral-51aa26221/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_alexsobral/)
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSobral01&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSobral01&layout=compact&theme=transparent)](https://github.com/AlexSobral01/github-readme-stats)
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexSobral01&show_icons=true&theme=radical&count_private=true&border_radius=20&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=fff" alt="GitHub Stats" width="400" style="box-shadow: 0 0 24px #39ff14, 0 0 48px #0ff; border-radius: 20px; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSobral01&layout=compact&hide=css,html&theme=radical&border_radius=20&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=fff" alt="Top Langs" width="340" style="box-shadow: 0 0 24px #39ff14, 0 0 48px #0ff; border-radius: 20px;"/>
+</div>
 
 ### Technologies that I use 
 
