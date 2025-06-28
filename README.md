@@ -1,6 +1,10 @@
 
 ## Hi, I'm Alex Sobral
 
+Hi, I'm Alex Sobral, a programmer with a strong interest in software development. I'm always curious about how things work and constantly looking to learn something new—whether it's exploring a new language or sharpening my skills. I believe in the power of technology to solve real problems and am always looking to grow professionally.
+
+---
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-sobral-51aa26221/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_alexsobral/)
 
@@ -8,6 +12,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlexSobral01&show_icons=true&theme=radical&count_private=true&border_radius=15&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=fff" alt="GitHub Stats" width="400" style="box-shadow: 0 0 24px #39ff14, 0 0 48px #0ff; border-radius: 20px; margin-right: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSobral01&layout=compact&hide=css,html&theme=radical&border_radius=15&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=fff" alt="Top Langs" width="340" style="box-shadow: 0 0 24px #39ff14, 0 0 48px #0ff; border-radius: 20px;"/>
 </div>
+
+---
 
 ### Technologies that I use 
 
@@ -19,5 +25,7 @@
   <img align="center" alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </div></br>
+
+---
 
 <img src="https://raw.githubusercontent.com/AlexSobral01/AlexSobral01/output/snake.svg" alt="Snake animation" />
